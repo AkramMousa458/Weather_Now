@@ -1,4 +1,4 @@
-# weather_now
+# Weather Now
 
 A new Flutter project.
 
